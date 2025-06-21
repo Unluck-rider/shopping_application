@@ -15,7 +15,9 @@ A responsive e-commerce application built with Flutter that supports dark/light 
 - 🛍️ **Product Listing, Detail View, and Empty Cart UI**
 
 ---
-<img src="https://github.com/user-attachments/assets/c0758691-4a2e-45a2-a55f-f319cc0537da" width="300" height="500" />
+## 📱 Screenshots Mobile View
+<img src="https://github.com/user-attachments/assets/475f7b34-5e90-4084-909f-f46eaaf5547e" width="300" height="500" />
+
 
 ## 🧰 Tech Stack
 

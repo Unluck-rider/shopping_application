@@ -1,4 +1,4 @@
-# 🛒 E-Commerce App (Flutter)
+# 🛒 Fake Store App (Flutter)
 
 A responsive e-commerce application built with Flutter that supports dark/light themes, state management using BLoC, and dynamic product search with real-time filtering.
 

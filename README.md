@@ -21,7 +21,7 @@ A responsive e-commerce application built with Flutter that supports dark/light 
 
 ---
 ## 📱 Screenshots Tab View
-<img src="https://github.com/user-attachments/assets/55a3149e-9173-4d26-bbcb-fde5aadbadb0" width="600" height="600" />
+<img src="https://github.com/user-attachments/assets/53828fed-4aba-4cc5-bffd-053ed77b4917" width="600" height="800" /> <img src="https://github.com/user-attachments/assets/55a3149e-9173-4d26-bbcb-fde5aadbadb0" width="600" height="800" />
 
 
 ## 🧰 Tech Stack

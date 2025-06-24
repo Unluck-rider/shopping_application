@@ -1,4 +1,4 @@
-package com.example.helyxon_assignment
+package com.example.Fake_store
 
 import io.flutter.embedding.android.FlutterActivity
 

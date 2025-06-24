@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "helyxon_assignment" "\0"
+            VALUE "FileDescription", "Fake_store" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "helyxon_assignment" "\0"
+            VALUE "InternalName", "Fake_store" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "helyxon_assignment.exe" "\0"
-            VALUE "ProductName", "helyxon_assignment" "\0"
+            VALUE "OriginalFilename", "Fake_store.exe" "\0"
+            VALUE "ProductName", "Fake_store" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
